@@ -48,8 +48,22 @@ npm install
 ```bash
 node bot_new.js
 ```
-4. explanation!!
-*ganti no owner or bot
+
+4. Scan QR or pakai pairing code  
+Bot pake multi-device. Tinggal ikutin instruksi di terminal.
+
+Session bakal kesimpen di folder `auth_info`. Jangan dihapus kalo mau tetap login.
+
+---
+
+5.jika kamu run lewat termux dan kamu restart termux lakukan ini untuk run ulang.
+```bash
+cd 0xZenith-newbot/'v5. 0.0'
+lalu
+node bot_new.js
+```
+## explanation!!
+*cara ganti no owner or bot
    -buka file bot_new.js
    -cari kata kunci OWNER (untuk ganti no owner)
    - cari kata kunci PAIRING(untuk ganti no yang mau di jadikan bot)
@@ -59,19 +73,6 @@ node bot_new.js
    -jika bot eror tunggu saja, karna bisa jadi bot lagi maintenance (tahap pengembangan)
    -jika bot selalu eror. cek apakah ada update versi bot!
    - gunakan dengan bijak. selebihnya ada di anda😹
-5. Scan QR or pakai pairing code  
-Bot pake multi-device. Tinggal ikutin instruksi di terminal.
-
-Session bakal kesimpen di folder `auth_info`. Jangan dihapus kalo mau tetap login.
-
----
-
-6.jika kamu run lewat termux dan kamu restart termux lakukan ini untuk run ulang.
-```bash
-cd 0xZenith-newbot/'v5. 0.0'
-lalu
-node bot_new.js
-```
 
 ## Notes
 
