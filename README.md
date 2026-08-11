@@ -3,6 +3,7 @@
 
 WhatsApp bot simple tapi ngegas. Dibuat pake otak owner 
 bukan 'tolong buatkan bot dengan... lalu.. 🗿😹😹"
+
 Versi: **BOT-V5.0.0.0**  
 Prefix: `.`  
 Owner: `egx`
