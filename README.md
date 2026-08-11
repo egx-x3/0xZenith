@@ -30,11 +30,12 @@ Tinggal ketik `.menu` biar liat list lengkapnya wok. jangan manja
 
 1. Extract zip-nya dulu
 ```bash
-cd 0xZenith-newbot
-unzip 0xZenith.zip
-cd "v5. 0.0"
+1.cd 0xZenith-newbot
+2.unzip 0xZenith.zip
+3.cd 'v5. 0.0'
+4. run bot dengan
+  node bot_new.js
 ```
-
 2. Install dependency
 ```bash
 pkg update && pkg install nodejs ffmpeg -y   # kalo Termux
@@ -47,7 +48,6 @@ npm install
 ```bash
 node bot_new.js
 ```
-
 4. explanation!!
 *ganti no owner or bot
    -buka file bot_new.js
@@ -65,6 +65,13 @@ Bot pake multi-device. Tinggal ikutin instruksi di terminal.
 Session bakal kesimpen di folder `auth_info`. Jangan dihapus kalo mau tetap login.
 
 ---
+
+6.jika kamu run lewat termux dan kamu restart termux lakukan ini untuk run ulang.
+```bash
+cd 0xZenith-newbot/'v5. 0.0'
+lalu
+node bot_new.js
+```
 
 ## Notes
 
