@@ -30,9 +30,13 @@ Tinggal ketik `.menu` biar liat list lengkapnya wok. jangan manja
 
 1. Extract zip-nya dulu
 ```bash
-1.cd 0xZenith-newbot
-2.unzip 0xZenith.zip
-3.cd 'v5. 0.0'
+cd 0xZenith-newbot
+```
+```bash
+unzip 0xZenith.zip
+```
+```bash
+cd 'v5. 0.0'
 ```
 2. Install dependency
 ```bash
@@ -56,16 +60,14 @@ Session bakal kesimpen di folder `auth_info`. Jangan dihapus kalo mau tetap logi
 
 5.jika kamu run lewat termux dan kamu restart termux lakukan ini untuk run ulang.
 ```bash
-cd 0xZenith-newbot/'v5. 0.0'
-lalu
-node bot_new.js
+cd 0xZenith-newbot/'v5. 0.0' && node bot_new.js
 ```
 # explanation!
 -cara ganti no owner or bot
-   -buka file bot_new.js
-   -cari kata kunci OWNER (untuk ganti no owner)
-   - cari kata kunci PAIRING(untuk ganti no yang mau di jadikan bot)
-   - kata kunci CODE (untuk ganti kode pairing custom)
+   -buka file `bot_new.js`
+   -cari kata kunci `OWNER` (untuk ganti no owner)
+   - cari kata kunci `PAIRING`(untuk ganti no yang mau di jadikan bot)
+   - kata kunci `CODE` (untuk ganti kode pairing custom)
  *rules
    -JANGAN GUNAKAN NO WA UTAMA UNTUK DI JADIKAN BOT!!
    -jika bot eror tunggu saja, karna bisa jadi bot lagi maintenance (tahap pengembangan)
