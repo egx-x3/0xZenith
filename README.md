@@ -33,8 +33,6 @@ Tinggal ketik `.menu` biar liat list lengkapnya wok. jangan manja
 1.cd 0xZenith-newbot
 2.unzip 0xZenith.zip
 3.cd 'v5. 0.0'
-4. run bot dengan
-  node bot_new.js
 ```
 2. Install dependency
 ```bash
