@@ -30,6 +30,7 @@ Tinggal ketik `.menu` biar liat list lengkapnya wok. jangan manja
 
 1. Extract zip-nya dulu
 ```bash
+cd 0xZenith-newbot
 unzip 0xZenith.zip
 cd "v5. 0.0"
 ```
