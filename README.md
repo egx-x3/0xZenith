@@ -1,8 +1,8 @@
 # 0xZenith Bot 🔥
 #JANGAN HAPUS WMNYA WOK, HARGAIN YG BUAT Y ANJG
 
-WhatsApp bot simple tapi ngegas. Dibuat pake Baileys, owner EGX BOT.
-
+WhatsApp bot simple tapi ngegas. Dibuat pake otak owner 
+bukan 'tolong buatkan bot dengan... lalu.. 🗿😹😹"
 Versi: **BOT-V5.0.0.0**  
 Prefix: `.`  
 Owner: `egx`
@@ -21,7 +21,7 @@ Owner: `egx`
 - Random asupan / cecan
 - Image to real, anime gen, dll
 
-Tinggal ketik `.menu` biar liat list lengkapnya.
+Tinggal ketik `.menu` biar liat list lengkapnya wok. jangan manja
 
 ---
 
