@@ -62,8 +62,8 @@ cd 0xZenith-newbot/'v5. 0.0'
 lalu
 node bot_new.js
 ```
-## explanation!!
-*cara ganti no owner or bot
+# explanation!
+-cara ganti no owner or bot
    -buka file bot_new.js
    -cari kata kunci OWNER (untuk ganti no owner)
    - cari kata kunci PAIRING(untuk ganti no yang mau di jadikan bot)
