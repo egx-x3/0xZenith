@@ -35,9 +35,6 @@ cd 0xZenith
 ```bash
 unzip 0xZenith.zip
 ```
-```bash
-cd 'v5. 0.0'
-```
 2. Install dependency
 ```bash
 pkg update && pkg install nodejs ffmpeg -y   # kalo Termux
