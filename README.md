@@ -24,7 +24,7 @@ Owner: `egx`
 
 Tinggal ketik `.menu` biar liat list lengkapnya wok. jangan manja
 ```
-```bash
+```
 ## hidden menu!!
 -setopen (jam)
 -setclose (jam)
