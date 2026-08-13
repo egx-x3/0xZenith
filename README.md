@@ -24,6 +24,16 @@ Owner: `egx`
 
 Tinggal ketik `.menu` biar liat list lengkapnya wok. jangan manja
 
+## hidden menu!!
+-setopen (jam)
+-setclose (jam)
+fungsi?
+buat otomatisasi grub
+auto open and close
+-s (make a sticker)
+-sprem (make a prem stc)
+-id (cek id or lid)
+-ipsaya (cek ip usr)
 ---
 
 ## Cara Install (Termux / VPS)
