@@ -57,7 +57,7 @@ Session bakal kesimpen di folder `auth_info`. Jangan dihapus kalo mau tetap logi
 
 5.jika kamu run lewat termux dan kamu restart termux lakukan ini untuk run ulang.
 ```bash
-cd 0xZenith-newbot/'v5. 0.0' && node bot_new.js
+cd 0xZenith && node bot_new.js
 ```
 # explanation!
 -cara ganti no owner or bot
