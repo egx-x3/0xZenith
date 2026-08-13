@@ -23,7 +23,8 @@ Owner: `egx`
 - Image to real, anime gen, dll
 
 Tinggal ketik `.menu` biar liat list lengkapnya wok. jangan manja
-
+```
+```bash
 ## hidden menu!!
 -setopen (jam)
 -setclose (jam)
@@ -34,8 +35,7 @@ auto open and close
 -sprem (make a prem stc)
 -id (cek id or lid)
 -ipsaya (cek ip usr)
----
-
+```
 ## Cara Install (Termux / VPS)
 
 1. Extract zip-nya dulu
